@@ -1,0 +1,1 @@
+Proyecto practico del curso llamado "JS en la Web: Manipulación del DOM con JavaScript". Se practica la manipulación del DOM vía métodos y atributos que poseen los objetos HTML del DOM.
